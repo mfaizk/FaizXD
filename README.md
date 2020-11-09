@@ -3,7 +3,7 @@
 <h1 title="hehehe"> Hey 👋, I'm Faiz!</h1>
 </div>
 
-<a href=https://www.instagram.com/mohd.fa1z.khan/?hl=en">
+<a href="https://www.instagram.com/mohd.fa1z.khan/?hl=en">
   <img align="left" alt="Faiz's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/mohammedfaiz.khan.3551">
