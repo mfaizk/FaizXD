@@ -19,7 +19,7 @@ A **Software Engineering Student** 🚀 from Fatehpur(U.P), India.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently pursuing my Bachelor's degree in Computer Science.
-- 🌱 I’m currently exploring Dart. 
+- 🌱 I’m currently exploring kotlin(Jetpack Compose). 
 - 🤔 My interests are Android app development,linux some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [suneater1413@gmail.com](mailto:suneater1413@gmail.com).
