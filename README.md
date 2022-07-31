@@ -19,8 +19,8 @@ A **Software Engineering Student** 🚀 from Fatehpur(U.P), India.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently pursuing my Bachelor's degree in Computer Science.
-- 🌱 I’m currently exploring Golang. 
-- 🤔 My interests are Android app development,linux some useful and cool stuff xD
+- 🌱 I’m currently exploring Web development. 
+- 🤔 My interests are Android app development,Web app development,linux some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [suneater1413@gmail.com](mailto:suneater1413@gmail.com).
 - 💻 Current Os Lmde5(Linux mint debian edition 5)❤️❤️❤️❤️
