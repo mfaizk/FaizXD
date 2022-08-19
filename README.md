@@ -23,7 +23,7 @@ A **Software Engineering Student** 🚀 from Fatehpur(U.P), India.
 - 🤔 My interests are Android app development,Web app development,linux some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [suneater1413@gmail.com](mailto:suneater1413@gmail.com).
-- 💻 Current Os Lmde5(Linux mint debian edition 5)❤️❤️❤️❤️
+- 💻 Current Os Pop Os 22.04 (by system 76)❤️❤️❤️❤️
 
 **Languages and Tools:**  
 
