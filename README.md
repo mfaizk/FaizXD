@@ -14,7 +14,7 @@
 
 A **Software Engineering Student** 🚀 from Fatehpur(U.P), India.
 
-  <img align="right" alt="GIF" src="https://giphy.com/embed/26BGIqWh2R1fi6JDa" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FlMWY5ZGI2Zjg4NGRlZTMyNzJlMWU5MDgwNDViY2JiZGYwNGVkMCZjdD1n/26BGIqWh2R1fi6JDa/giphy.gif" />
 
 **About Me!**
 
